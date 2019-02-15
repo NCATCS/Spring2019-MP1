@@ -92,21 +92,17 @@ Faculty0 Number of Courses
 Course0 Name
 Course0 Location
 Course0 Number of meeting days
-Course0 Day of the week Start_Time End_Time
+Course0 Day of the week, Start_Time, End_Time
 * repeat for other days
 * repeat for other courses
 Faculty0 Number of office hour sessions
-Office Hours0 Day of the week
-Start_Time
-End_Time
+Office Hours0 Day of the week, Start_Time, End_Time
 * Repeat for other office hours.
 Faculty0 Number of Appointments
 Appointments0 Description
-Appointments0 Day of the week
-Start_Time
-End_Time
+Appointments0 Day of the week, Start_Time, End_Time
 * Repeat for other appointments.
-*Repeat for other faculty
+* Repeat for other faculty
 
 The file will end when there are no more faculty.
 ```
