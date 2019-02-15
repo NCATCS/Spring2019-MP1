@@ -64,7 +64,7 @@ The method `getCalendar()` should return all course items, office hour items and
 
 ## The toString() method
 
-The toString method should include all the properties separated by a line separator character. Output should follow the order as listed in the above UML Class Diagrams.
+The toString method should return a String formatted as in the input file. Notice that `TimeBlock.toString()` will not include the `location` or `comment` properties. Most classes will have each property on a new line, `TimeBlock` properties will be separated by a comma.
 
 ## Hanlding ArrayLists
 
