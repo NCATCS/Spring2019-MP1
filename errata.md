@@ -29,3 +29,15 @@ The instructions for the `toString()` method now reflect the correct format for 
 Previously the `Course` class was not a graded component of the assignment.
 
 ![README Diff for Course](https://github.com/NCATCS/Spring2019-MP1/blob/update-1/images/course1.png)
+
+## Update 2
+
+1. Update the instructions to include Course class in level 1.
+
+2. Remove `getFormatedTimeBlocks()` from instructions.
+
+![README Diff for Update 2](https://github.com/NCATCS/Spring2019-MP1/blob/update-1/images/readme2.png)
+
+3. Remove `getFormattedTimeBlocks()` from UML Diagram.
+
+![Appointment UML Diff for Update 2](https://github.com/NCATCS/Spring2019-MP1/blob/update-1/images/appointment2.png)
