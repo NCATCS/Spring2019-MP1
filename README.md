@@ -126,7 +126,7 @@ You must create a driver program (`main()` method) for each level that demonstra
 Complete the `DaysOfWeek` enumerated type, the `TimeBlock` class, the `Course` class and the `Appointment` class. Write a simple driver program that will instantiate an object of each class type, populate the data fields and test the other methods of the classes. Display your output in a `JavaFX Dialog`.
 
 ### Level 2: 10 points
-Complete all of the `Course` class and all of the `Faculty` class except for the `getCalendar()` and `atAGlance()` methods.
+Complete all of the `Faculty` class except for the `getCalendar()` and `atAGlance()` methods.
 
 ### Level 3: 20 points
 Complete all of the `Department` class except for the `loadDepartmentData()` and `saveDepartmentData()`
