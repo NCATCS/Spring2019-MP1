@@ -52,8 +52,6 @@ startTime - endTime comments location (e.g. 1200 - 1300 COMP167 ACB 207 )
 
 ![Appointment UML Diagram](https://github.com/NCATCS/Spring2019-MP1/blob/master/images/Appointment.png)
 
-The method `getFormatedTimeBlocks()` will return a string with a tab character (i.e. `\t`) preceding each formatted TimeBlock (use the `getFormatedTimeBlock()` method and a line separator character between each formatted `TimeBlock` that matches the given day and time.
-
 ![Course UML Diagram](https://github.com/NCATCS/Spring2019-MP1/blob/master/images/Course.png)
 
 ![Faculty UML Diagram](https://github.com/NCATCS/Spring2019-MP1/blob/master/images/Faculty.png)
