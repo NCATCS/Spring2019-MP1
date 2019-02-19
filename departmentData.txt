@@ -52,3 +52,40 @@ Monday, 1200, 1600
 Wednesday, 1200, 1400
 Friday, 1400, 1700
 0
+Edward Carr
+McNair 526
+1
+COMP285 Section 1
+208 Graham Hall
+3
+Monday, 1100, 1150
+Wednesday, 1100, 1150
+Friday, 1100, 1150
+0
+2
+Important Meeting
+Monday, 1200, 1350
+Other Important Meeting
+Wednesday, 900, 1050
+Esterline Albert
+526 McNair Hall
+1
+COMP280 Section1
+210 Graham Hall
+3
+Monday, 1300, 1350
+Wednesday, 1300, 1350
+Friday, 1300, 1350
+4
+Monday, 900, 1000
+Tuesday, 1400, 1600
+Wednesday, 900, 1000
+Thursday, 900, 1000
+1
+Plan world domination with Dr. K.
+Saturday, 900, 17:00
+Kertopher Kent
+401 Cherry Hall
+0
+0
+0
