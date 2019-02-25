@@ -121,7 +121,7 @@ The format of the output file is the same as the input file. If you have created
 You must create a driver program (`main()` method) for each level that demonstrates that the all the functionality of that level works correctly. You must push your work to GitHub and open a GitHub pull request for EACH level.
 
 ### Level 1: 25 points
-Complete the `DaysOfWeek` enumerated type, the `TimeBlock` class, the `Course` class and the `Appointment` class. Write a simple driver program that will instantiate an object of each class type, populate the data fields and test the other methods of the classes. Display your output in a `JavaFX Dialog`.
+Complete the `DaysOfWeek` enumerated type, the `TimeBlock` class, the `Course` class and the `Appointment` class. Write a simple driver program that will instantiate an object of each class type, populate the data fields and test the other methods of the classes. Display your output in a `JOptionPane` (or a `JavaFX Dialog`, either is acceptable).
 
 ### Level 2: 10 points
 Complete all of the `Faculty` class except for the `getCalendar()` and `atAGlance()` methods.
